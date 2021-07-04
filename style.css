@@ -28,6 +28,7 @@ section{
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
     border-radius: 5px;
+    font-weight: 700;
 }
 .first-section{
     background-image: url(images/top-banner.png);
